@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aqueeb </h2>
+<h1 align="left">Hi 👋! My name is Aqueeb </h1>
 
 ###
 
@@ -17,7 +17,6 @@
 ###
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHI5eTFnMG1vbTFoZW5mOHFvNXA4Nm9udmExazd5NnNxc3VkMWRzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CWWzNDLvkoX4mIEawq/giphy.gif"  />
-
 
 ###
 
