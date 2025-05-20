@@ -3,12 +3,14 @@
 ###
 
 
-<h2 align="left">About me </h2>
+<h2 align="left">💫 About me </h2>
 <p>I am a B.Tech student currently pursuing my degree, with a strong interest in web development, UI/UX design, and machine learning. I’m passionate about creating intuitive digital experiences and exploring how intelligent systems can make an impact. I’m always looking for opportunities to grow, collaborate on projects, and stay up to date with the latest trends in the tech industry.</p>
 
 
 
 ###
+
+<h2 align="left">💻 Tech Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -16,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Node/Node-original.svg" height="30" alt="node logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
